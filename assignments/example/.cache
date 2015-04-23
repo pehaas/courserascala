@@ -1,0 +1,168 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+2 items
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes
+compile options:
+10 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jdk1.7.0_71\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.7.0_71\jre\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Users\Peter\IDE\scala_eclipse\plugins\org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
+6 -> -deprecation
+7 -> -feature
+8 -> -encoding
+9 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+21 items
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\common\package$$anonfun$subFile$1.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\common\package$.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\common\package.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\example\Lists$.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\example\Lists.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$1.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$10.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$11$$anonfun$apply$mcV$sp$2.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$11.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$12$$anonfun$apply$mcV$sp$3.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$12.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$2.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$3.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$4$$anonfun$apply$mcV$sp$1.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$4.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$5.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$6.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$7.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$8.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$9.class
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite.class
+binary dependencies:
+8 items
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> C:\Program Files\Java\jdk1.7.0_71\jre\lib\rt.jar
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> C:\Users\Peter\IDE\scala_eclipse\plugins\org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala -> C:\Program Files\Java\jdk1.7.0_71\jre\lib\rt.jar
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala -> C:\Users\Peter\IDE\scala_eclipse\plugins\org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> C:\Program Files\Java\jdk1.7.0_71\jre\lib\rt.jar
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> C:\Users\Peter\.ivy2\cache\junit\junit\jars\junit-4.10.jar
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> C:\Users\Peter\.ivy2\cache\org.scalatest\scalatest_2.10\jars\scalatest_2.10-1.9.1.jar
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> C:\Users\Peter\IDE\scala_eclipse\plugins\org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
+direct source dependencies:
+1 items
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> common.package
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> common.package$
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala -> example.Lists
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala -> example.Lists$
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$1
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$10
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$11
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$11$$anonfun$apply$mcV$sp$2
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$12
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$12$$anonfun$apply$mcV$sp$3
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$2
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$3
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$4
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$4$$anonfun$apply$mcV$sp$1
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$5
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$6
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$7
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$8
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> example.ListsSuite$$anonfun$9
+used names:
+0 items
+product stamps:
+21 items
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\common\package$$anonfun$subFile$1.class -> lastModified(1429715535343)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\common\package$.class -> lastModified(1429715535343)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\common\package.class -> lastModified(1429715535343)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\example\Lists$.class -> lastModified(1429715535359)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\classes\example\Lists.class -> lastModified(1429715535343)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$1.class -> lastModified(1429715535375)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$10.class -> lastModified(1429715535375)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$11$$anonfun$apply$mcV$sp$2.class -> lastModified(1429715535531)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$11.class -> lastModified(1429715535375)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$12$$anonfun$apply$mcV$sp$3.class -> lastModified(1429715535531)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$12.class -> lastModified(1429715535531)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$2.class -> lastModified(1429715535531)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$3.class -> lastModified(1429715535531)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$4$$anonfun$apply$mcV$sp$1.class -> lastModified(1429715535547)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$4.class -> lastModified(1429715535547)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$5.class -> lastModified(1429715535547)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$6.class -> lastModified(1429715535562)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$7.class -> lastModified(1429715535562)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$8.class -> lastModified(1429715535562)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite$$anonfun$9.class -> lastModified(1429715535562)
+D:\Peter\Development\workshop\coursera\material\assignments\example\target\scala-2.10\test-classes\example\ListsSuite.class -> lastModified(1429715535375)
+source stamps:
+3 items
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> hash(959d2de80692406118ffed481da44534a9da824a)
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala -> hash(0b0c8998ddbe75565f145b3a330cf94ccf08bf63)
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> hash(ced25bc560bad974a7323f9f18bb5c6c55d65707)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.7.0_71\jre\lib\rt.jar -> lastModified(1421433719466)
+C:\Users\Peter\.ivy2\cache\junit\junit\jars\junit-4.10.jar -> lastModified(1317323535000)
+C:\Users\Peter\.ivy2\cache\org.scalatest\scalatest_2.10\jars\scalatest_2.10-1.9.1.jar -> lastModified(1356202546000)
+C:\Users\Peter\IDE\scala_eclipse\plugins\org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar -> lastModified(1425567106000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.7.0_71\jre\lib\rt.jar -> java.io.Serializable
+C:\Users\Peter\.ivy2\cache\junit\junit\jars\junit-4.10.jar -> org.junit.runner.RunWith
+C:\Users\Peter\.ivy2\cache\org.scalatest\scalatest_2.10\jars\scalatest_2.10-1.9.1.jar -> org.scalatest.FunSuite
+C:\Users\Peter\IDE\scala_eclipse\plugins\org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar -> scala.Function0
+internal apis:
+3 items
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOY29tbW9uLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AC4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4ANXNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AE10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AE5zcQB+AEF0AANBbnlzcQB+AEVzcQB+AEh1cQB+AEsAAAACc3EAfgBNdAAFc2NhbGFxAH4AVHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFM4a/DuHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAACc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0AF1EOlxQZXRlclxEZXZlbG9wbWVudFx3b3Jrc2hvcFxjb3Vyc2VyYVxtYXRlcmlhbFxhc3NpZ25tZW50c1xleGFtcGxlXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AFJEOlxQZXRlclxEZXZlbG9wbWVudFx3b3Jrc2hvcFxjb3Vyc2VyYVxtYXRlcmlhbFxhc3NpZ25tZW50c1xleGFtcGxlXHNyY1xtYWluXHNjYWxhc3EAfgBmdABiRDpcUGV0ZXJcRGV2ZWxvcG1lbnRcd29ya3Nob3BcY291cnNlcmFcbWF0ZXJpYWxcYXNzaWdubWVudHNcZXhhbXBsZVx0YXJnZXRcc2NhbGEtMi4xMFx0ZXN0LWNsYXNzZXN0AFJEOlxQZXRlclxEZXZlbG9wbWVudFx3b3Jrc2hvcFxjb3Vyc2VyYVxtYXRlcmlhbFxhc3NpZ25tZW50c1xleGFtcGxlXHNyY1x0ZXN0XHNjYWxhdXIAAltCrPMX+AYIVOACAAB4cAAAABSVnS3oBpJAYRj/7UgdpEU0qdqCSg==
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHALwwU6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANZXhhbXBsZS5MaXN0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBRdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4APXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ARVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANHNxAH4ARHQABUFycmF5cQB+AEp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ARHQABlN0cmluZ3NxAH4ASHNxAH4AS3VxAH4ATgAAAANzcQB+AFB0AARqYXZhc3EAfgBQdAAEbGFuZ3EAfgBVcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+AGkAAAACc3EAfgBEdAAGT2JqZWN0cQB+AG1zcQB+AER0AANBbnlxAH4ASnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAHZXhhbXBsZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOGvw7h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAnNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdABdRDpcUGV0ZXJcRGV2ZWxvcG1lbnRcd29ya3Nob3BcY291cnNlcmFcbWF0ZXJpYWxcYXNzaWdubWVudHNcZXhhbXBsZVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdABSRDpcUGV0ZXJcRGV2ZWxvcG1lbnRcd29ya3Nob3BcY291cnNlcmFcbWF0ZXJpYWxcYXNzaWdubWVudHNcZXhhbXBsZVxzcmNcbWFpblxzY2FsYXNxAH4AhnQAYkQ6XFBldGVyXERldmVsb3BtZW50XHdvcmtzaG9wXGNvdXJzZXJhXG1hdGVyaWFsXGFzc2lnbm1lbnRzXGV4YW1wbGVcdGFyZ2V0XHNjYWxhLTIuMTBcdGVzdC1jbGFzc2VzdABSRDpcUGV0ZXJcRGV2ZWxvcG1lbnRcd29ya3Nob3BcY291cnNlcmFcbWF0ZXJpYWxcYXNzaWdubWVudHNcZXhhbXBsZVxzcmNcdGVzdFxzY2FsYXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAUCwyJmN2+dVZfFFs6Mwz5TM8Iv2M=
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCPEjsMAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAFdmFsdWV0AChjbGFzc09mW29yZy5zY2FsYXRlc3QuanVuaXQuSlVuaXRSdW5uZXJdc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB1J1bldpdGhzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AC9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4AO3QABWp1bml0c3EAfgA7dAAGcnVubmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ADxzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABJleGFtcGxlLkxpc3RzU3VpdGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ABBzY2FsYS5kZXByZWNhdGVkc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AL3BzcQB+AFEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AMHNxAH4AUQF1cQB+ABAAAAAAcHNxAH4AUQF1cQB+ABAAAAAAcHNxAH4AUQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAB3NxAH4ALXQACEZ1blN1aXRlc3EAfgAzc3EAfgA2dXEAfgA5AAAAA3NxAH4AO3QAA29yZ3NxAH4AO3QACXNjYWxhdGVzdHEAfgBEc3EAfgAtdAAFU3VpdGVxAH4AZHNxAH4ALXQADFNlcmlhbGl6YWJsZXNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AARqYXZhc3EAfgA7dAACaW9xAH4ARHNxAH4ALXQADUFic3RyYWN0U3VpdGVxAH4AZHNxAH4ALXQACkFzc2VydGlvbnNxAH4AZHNxAH4ALXQABk9iamVjdHNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADtxAH4Ac3NxAH4AO3QABGxhbmdxAH4ARHNxAH4ALXQAA0FueXNxAH4AM3NxAH4ANnVxAH4AOQAAAAJzcQB+ADt0AAVzY2FsYXEAfgBEcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAdleGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFM4a/DuHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAACc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0AF1EOlxQZXRlclxEZXZlbG9wbWVudFx3b3Jrc2hvcFxjb3Vyc2VyYVxtYXRlcmlhbFxhc3NpZ25tZW50c1xleGFtcGxlXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AFJEOlxQZXRlclxEZXZlbG9wbWVudFx3b3Jrc2hvcFxjb3Vyc2VyYVxtYXRlcmlhbFxhc3NpZ25tZW50c1xleGFtcGxlXHNyY1xtYWluXHNjYWxhc3EAfgCTdABiRDpcUGV0ZXJcRGV2ZWxvcG1lbnRcd29ya3Nob3BcY291cnNlcmFcbWF0ZXJpYWxcYXNzaWdubWVudHNcZXhhbXBsZVx0YXJnZXRcc2NhbGEtMi4xMFx0ZXN0LWNsYXNzZXN0AFJEOlxQZXRlclxEZXZlbG9wbWVudFx3b3Jrc2hvcFxjb3Vyc2VyYVxtYXRlcmlhbFxhc3NpZ25tZW50c1xleGFtcGxlXHNyY1x0ZXN0XHNjYWxhdXIAAltCrPMX+AYIVOACAAB4cAAAABTO0lvFYLrZdKcyP58Yu1xsVdZXBw==
+external apis:
+0 items
+source infos:
+3 items
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\main\scala\example\Lists.scala -> 
+AAAAAAAAAAA=
+D:\Peter\Development\workshop\coursera\material\assignments\example\src\test\scala\example\ListsSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOGuhGV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAnNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXUQ6XFBldGVyXERldmVsb3BtZW50XHdvcmtzaG9wXGNvdXJzZXJhXG1hdGVyaWFsXGFzc2lnbm1lbnRzXGV4YW1wbGVcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAUkQ6XFBldGVyXERldmVsb3BtZW50XHdvcmtzaG9wXGNvdXJzZXJhXG1hdGVyaWFsXGFzc2lnbm1lbnRzXGV4YW1wbGVcc3JjXG1haW5cc2NhbGFzcQB+AAV0AGJEOlxQZXRlclxEZXZlbG9wbWVudFx3b3Jrc2hvcFxjb3Vyc2VyYVxtYXRlcmlhbFxhc3NpZ25tZW50c1xleGFtcGxlXHRhcmdldFxzY2FsYS0yLjEwXHRlc3QtY2xhc3Nlc3QAUkQ6XFBldGVyXERldmVsb3BtZW50XHdvcmtzaG9wXGNvdXJzZXJhXG1hdGVyaWFsXGFzc2lnbm1lbnRzXGV4YW1wbGVcc3JjXHRlc3Rcc2NhbGE=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOGvw7h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAnNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXUQ6XFBldGVyXERldmVsb3BtZW50XHdvcmtzaG9wXGNvdXJzZXJhXG1hdGVyaWFsXGFzc2lnbm1lbnRzXGV4YW1wbGVcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAUkQ6XFBldGVyXERldmVsb3BtZW50XHdvcmtzaG9wXGNvdXJzZXJhXG1hdGVyaWFsXGFzc2lnbm1lbnRzXGV4YW1wbGVcc3JjXG1haW5cc2NhbGFzcQB+AAV0AGJEOlxQZXRlclxEZXZlbG9wbWVudFx3b3Jrc2hvcFxjb3Vyc2VyYVxtYXRlcmlhbFxhc3NpZ25tZW50c1xleGFtcGxlXHRhcmdldFxzY2FsYS0yLjEwXHRlc3QtY2xhc3Nlc3QAUkQ6XFBldGVyXERldmVsb3BtZW50XHdvcmtzaG9wXGNvdXJzZXJhXG1hdGVyaWFsXGFzc2lnbm1lbnRzXGV4YW1wbGVcc3JjXHRlc3Rcc2NhbGE=
