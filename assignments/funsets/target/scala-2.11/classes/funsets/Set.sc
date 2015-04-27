@@ -1,5 +1,10 @@
 package funsets
 
+import FunSets._
+
 object Set {
-  FunSets
+
+  def singletonSet(elem: Int): Set = x => x == elem
+                                                  //> singletonSet: (elem: Int)funsets.FunSets.Set
+
 }
