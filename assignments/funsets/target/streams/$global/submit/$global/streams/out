@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [0m[[0minfo[0m] [0mConnecting to coursera. Obtaining challenge...[0m
 [0m[[0minfo[0m] [0mComputing challenge response...[0m
 [0m[[0minfo[0m] [0mSubmitting solution...[0m
@@ -11,6 +12,8 @@
 [0m[[32msuccess[0m] [0m   - For each assignment there is a limit on the maximum number of attempts you can make.[0m
 [0m[[32msuccess[0m] [0m          [0m
 =======
+=======
+>>>>>>> db6614814310bc36288af6fa28916b42ebce8e52
 [0m[[0minfo[0m] [0mConnecting to coursera. Obtaining challenge...[0m
 [0m[[0minfo[0m] [0mComputing challenge response...[0m
 [0m[[0minfo[0m] [0mSubmitting solution...[0m
@@ -22,4 +25,7 @@
 [0m[[32msuccess[0m] [0m     final score does not match please make sure to check the exact deadlines.[0m
 [0m[[32msuccess[0m] [0m   - For each assignment there is a limit on the maximum number of attempts you can make.[0m
 [0m[[32msuccess[0m] [0m          [0m
+<<<<<<< HEAD
+>>>>>>> db6614814310bc36288af6fa28916b42ebce8e52
+=======
 >>>>>>> db6614814310bc36288af6fa28916b42ebce8e52
