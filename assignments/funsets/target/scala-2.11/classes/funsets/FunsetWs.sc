@@ -1,6 +1,0 @@
-object Set {
-
-  println("ddd")
-
-
-}
