@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [0m[[0minfo[0m] [0mPackaging D:\Peter\Development\scala_ws\coursera\IJ_courserascala\assignments\funsets\target\scala-2.11\progfun-funsets_2.11-1.0.0.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
 [0m[[0mdebug[0m] [0m	common\package.scala[0m
@@ -6,4 +7,14 @@
 [0m[[0mdebug[0m] [0m	  D:\Peter\Development\scala_ws\coursera\IJ_courserascala\assignments\funsets\src\main\scala\funsets\FunSets.scala[0m
 [0m[[0mdebug[0m] [0m	funsets\Main.scala[0m
 [0m[[0mdebug[0m] [0m	  D:\Peter\Development\scala_ws\coursera\IJ_courserascala\assignments\funsets\src\main\scala\funsets\Main.scala[0m
+=======
+[0m[[0minfo[0m] [0mPackaging D:\Peter\Development\workshop\coursera\material\assignments\funsets\target\scala-2.11\progfun-funsets_2.11-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	common\package.scala[0m
+[0m[[0mdebug[0m] [0m	  D:\Peter\Development\workshop\coursera\material\assignments\funsets\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0m	funsets\FunSets.scala[0m
+[0m[[0mdebug[0m] [0m	  D:\Peter\Development\workshop\coursera\material\assignments\funsets\src\main\scala\funsets\FunSets.scala[0m
+[0m[[0mdebug[0m] [0m	funsets\Main.scala[0m
+[0m[[0mdebug[0m] [0m	  D:\Peter\Development\workshop\coursera\material\assignments\funsets\src\main\scala\funsets\Main.scala[0m
+>>>>>>> db6614814310bc36288af6fa28916b42ebce8e52
 [0m[[0minfo[0m] [0mDone packaging.[0m
