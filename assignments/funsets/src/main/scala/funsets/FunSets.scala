@@ -69,7 +69,7 @@ object FunSets {
   /**
    * The bounds for `forall` and `exists` are +/- 1000.
    */
-  val bound = 3
+  val bound = 1000
 
   /**
    * Returns whether all bounded integers within `s` satisfy `p`.
@@ -93,7 +93,16 @@ object FunSets {
   /**
    * Returns a set transformed by applying `f` to each element of `s`.
    */
-  def map(s: Set, f: Int => Int): Set = {y => exists(s, x => y == f(x))}
+  def map(s: Set, f: Int => Int): Set = {
+    y => exists(s, {
+      val yval = y
+      x => y == f(x)
+    }
+    )
+
+    }
+
+
 
   /**
    * Displays the contents of a set

@@ -113,7 +113,10 @@ class FunSetSuite extends FunSuite {
       assert(contains(s, 1), "Union 1")
       assert(contains(s, 2), "Union 2")
       assert(!contains(s, 3), "Union 3")
-      assert(contains(sx, 3), "Union 4")
+      
+      assert(contains(sx, 1), "Union 4")
+      assert(contains(sx, 2), "Union 5")
+      assert(contains(sx, 3), "Union 6")
     }
   }
 
@@ -176,6 +179,7 @@ class FunSetSuite extends FunSuite {
   }
   
   test("map") {
+    println("jklhhhhhhhhhh")
     new TestSets {
       val mapedSet = map(s2, x => x * x)
       printSet(mapedSet)
